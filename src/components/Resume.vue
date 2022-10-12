@@ -90,7 +90,7 @@
             <hr />
             <div class="flex flex-row">
               <div class="exp-left center">
-                <div class="content-subheading body-heading">Citiustech</div>
+                <div class="content-subheading body-heading">Maharashtra Knowledge Corporation Limited (MKCL)</div>
                 <div class="mt-sm">Full Stack Web Developer</div>
                 <div class="mt-sm">March 2022 - Present</div>
               </div>
