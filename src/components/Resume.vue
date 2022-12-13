@@ -28,11 +28,11 @@
               </div>
               <div class="flex flex-row">
                 <div class="icons8-github"></div>
-                <div class="center ml-m">vishalchopade</div>
+                <strong><a href="https://github.com/vishalchopade" target="_blank"> vishalchopade </a></strong>
               </div>
               <div class="flex flex-row">
                 <div class="icons8-linkedin"></div>
-                <div class="center ml-sm">vishal chopade</div>
+                <strong><a href="https://linkedin.com/in/vishal-chopade-983b501a2" target="_blank"> vishalchopade </a></strong>
               </div>
             </div>
           </div>
@@ -77,11 +77,11 @@
             <hr />
             <div class="content">
               <p>
-                I am Vishal Chopade, and I am completed Master of computer
-                Application from PES Modern College of Engineering pune in 2022.
-                After I graduated, I did a Six-month, full-time internship with
-                Maharashtra Knowledge Corporation Limited (MKCL) in a Postion of
-                Web Developer.
+                I am reliable, responsible and hard working person. I have
+                completed Master of Computer Application from PES Modern College
+                of Engineering Pune in 2022. After I graduated, I did a
+                Six-month, full-time internship with Maharashtra Knowledge
+                Corporation Limited (MKCL) as Web Developer.
               </p>
             </div>
           </div>
@@ -90,7 +90,9 @@
             <hr />
             <div class="flex flex-row">
               <div class="exp-left center">
-                <div class="content-subheading body-heading">Maharashtra Knowledge Corporation Limited (MKCL)</div>
+                <div class="content-subheading body-heading">
+                  Maharashtra Knowledge Corporation Limited (MKCL)
+                </div>
                 <div class="mt-sm">Full Stack Web Developer</div>
                 <div class="mt-sm">March 2022 - Present</div>
               </div>
